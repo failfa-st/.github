@@ -13,4 +13,4 @@ Find the latest videos & demos on [failfa.st](https://failfa.st)!
 
 Hosting is provided by Vercel, thank you very much! 
 
-<a href="https://vercel.com?utm_source=failfast&utm_campaign=oss"><img src="assets/powered-by-vercel.svg" alt="powered by vercel" width="200"/></a>
+<a href="https://vercel.com?utm_source=failfast&utm_campaign=oss"><img src="./assets/powered-by-vercel.svg" alt="powered by vercel" width="200"/></a>
